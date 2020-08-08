@@ -1,2 +1,3 @@
 # 365-Days-Of-Code
-In this repository you can find my notes whatever I study throughout this year-2020-2021. 
+This repository is for my notes whatever I study throughout this year 2020-2021. 
+You can download the pdf and study whenever and wherever you want. 
